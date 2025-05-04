@@ -1,0 +1,1001 @@
+user_id,text
+1,Superb quality
+2,Worst ever
+3,This is terrible
+4,I hate this!
+5,Loved it
+6,Superb quality
+7,This is horrible
+8,I hate this!
+9,I hate this!
+10,Really enjoyed it!
+11,Loved it
+12,Absolutely fantastic!
+13,Amazing experience!
+14,Terrible experience!
+15,Highly recommend
+16,Amazing experience!
+17,I love this!
+18,Terrible experience!
+19,Terrible experience!
+20,Poor quality
+21,Best ever
+22,Do not recommend
+23,This is terrible
+24,This is terrible
+25,This is horrible
+26,Terrible experience!
+27,Worst ever
+28,Absolutely fantastic!
+29,This is great
+30,This is horrible
+31,Superb quality
+32,This is awesome
+33,Superb quality
+34,Hated it
+35,Really enjoyed it!
+36,Really bad
+37,Hated it
+38,This is awesome
+39,Amazing experience!
+40,Worst ever
+41,This is terrible
+42,Superb quality
+43,Terrible experience!
+44,Loved it
+45,This is terrible
+46,Absolutely fantastic!
+47,Really bad
+48,Poor quality
+49,Really enjoyed it!
+50,Hated it
+51,Loved it
+52,Really enjoyed it!
+53,Amazing experience!
+54,Highly recommend
+55,Best ever
+56,Really enjoyed it!
+57,Hated it
+58,Terrible experience!
+59,Amazing experience!
+60,Best ever
+61,Really enjoyed it!
+62,Really bad
+63,Do not recommend
+64,This is terrible
+65,Loved it
+66,Really bad
+67,Loved it
+68,Do not recommend
+69,Absolutely awful!
+70,Hated it
+71,This is terrible
+72,Absolutely awful!
+73,This is awesome
+74,This is terrible
+75,Absolutely awful!
+76,I love this!
+77,Superb quality
+78,This is awesome
+79,I love this!
+80,Terrible experience!
+81,Loved it
+82,I hate this!
+83,This is horrible
+84,Poor quality
+85,Loved it
+86,Absolutely fantastic!
+87,Absolutely fantastic!
+88,I love this!
+89,This is great
+90,Best ever
+91,Superb quality
+92,This is awesome
+93,Superb quality
+94,This is awesome
+95,Loved it
+96,Terrible experience!
+97,Amazing experience!
+98,I love this!
+99,Do not recommend
+100,This is great
+101,Absolutely fantastic!
+102,Terrible experience!
+103,Loved it
+104,Absolutely fantastic!
+105,I love this!
+106,Absolutely fantastic!
+107,This is great
+108,This is terrible
+109,Really bad
+110,Absolutely fantastic!
+111,I love this!
+112,This is great
+113,Really bad
+114,Superb quality
+115,This is awesome
+116,This is terrible
+117,This is terrible
+118,Best ever
+119,Absolutely awful!
+120,This is horrible
+121,Superb quality
+122,Poor quality
+123,Worst ever
+124,Really enjoyed it!
+125,This is great
+126,Superb quality
+127,Absolutely awful!
+128,This is terrible
+129,I hate this!
+130,Really enjoyed it!
+131,Absolutely awful!
+132,Superb quality
+133,This is horrible
+134,Amazing experience!
+135,Best ever
+136,Absolutely awful!
+137,Highly recommend
+138,Terrible experience!
+139,Terrible experience!
+140,Worst ever
+141,I hate this!
+142,Superb quality
+143,I love this!
+144,I love this!
+145,Worst ever
+146,Absolutely awful!
+147,This is awesome
+148,Absolutely fantastic!
+149,Superb quality
+150,Highly recommend
+151,Loved it
+152,This is awesome
+153,This is great
+154,I love this!
+155,This is horrible
+156,Best ever
+157,Terrible experience!
+158,This is terrible
+159,This is awesome
+160,Worst ever
+161,Poor quality
+162,Poor quality
+163,Worst ever
+164,Terrible experience!
+165,Superb quality
+166,Amazing experience!
+167,Absolutely fantastic!
+168,Poor quality
+169,This is great
+170,Poor quality
+171,Poor quality
+172,Poor quality
+173,Amazing experience!
+174,Amazing experience!
+175,This is great
+176,I love this!
+177,I love this!
+178,This is horrible
+179,Amazing experience!
+180,Terrible experience!
+181,Highly recommend
+182,Really enjoyed it!
+183,I hate this!
+184,Poor quality
+185,Highly recommend
+186,This is great
+187,Worst ever
+188,Amazing experience!
+189,Highly recommend
+190,I hate this!
+191,Do not recommend
+192,Do not recommend
+193,I love this!
+194,This is awesome
+195,Highly recommend
+196,Do not recommend
+197,Absolutely fantastic!
+198,Worst ever
+199,Really enjoyed it!
+200,This is horrible
+201,Absolutely fantastic!
+202,This is horrible
+203,Worst ever
+204,Superb quality
+205,Worst ever
+206,This is awesome
+207,I love this!
+208,Loved it
+209,Superb quality
+210,Hated it
+211,Loved it
+212,I love this!
+213,I hate this!
+214,Hated it
+215,Best ever
+216,Absolutely fantastic!
+217,Superb quality
+218,Do not recommend
+219,Do not recommend
+220,Worst ever
+221,Poor quality
+222,Amazing experience!
+223,I love this!
+224,Do not recommend
+225,Terrible experience!
+226,This is great
+227,This is great
+228,This is awesome
+229,This is awesome
+230,Absolutely fantastic!
+231,This is horrible
+232,Do not recommend
+233,Do not recommend
+234,Absolutely fantastic!
+235,Worst ever
+236,I love this!
+237,Worst ever
+238,I hate this!
+239,Poor quality
+240,Loved it
+241,Really enjoyed it!
+242,Highly recommend
+243,Loved it
+244,Worst ever
+245,Absolutely fantastic!
+246,Do not recommend
+247,Absolutely fantastic!
+248,Hated it
+249,Really bad
+250,Hated it
+251,Amazing experience!
+252,Absolutely fantastic!
+253,Do not recommend
+254,This is awesome
+255,Really enjoyed it!
+256,I love this!
+257,Really enjoyed it!
+258,I love this!
+259,Really bad
+260,Do not recommend
+261,Worst ever
+262,Loved it
+263,Superb quality
+264,Absolutely fantastic!
+265,Poor quality
+266,I love this!
+267,Do not recommend
+268,Terrible experience!
+269,This is horrible
+270,Really bad
+271,Highly recommend
+272,Highly recommend
+273,Absolutely awful!
+274,This is horrible
+275,Loved it
+276,Amazing experience!
+277,I love this!
+278,This is terrible
+279,I love this!
+280,This is great
+281,Do not recommend
+282,This is horrible
+283,Really enjoyed it!
+284,Absolutely fantastic!
+285,Poor quality
+286,Poor quality
+287,Terrible experience!
+288,Really bad
+289,Highly recommend
+290,Absolutely fantastic!
+291,This is awesome
+292,This is great
+293,Poor quality
+294,Really bad
+295,Absolutely fantastic!
+296,I love this!
+297,Worst ever
+298,I love this!
+299,Absolutely fantastic!
+300,Hated it
+301,Best ever
+302,Absolutely fantastic!
+303,Loved it
+304,Really bad
+305,Hated it
+306,This is terrible
+307,Amazing experience!
+308,Best ever
+309,Amazing experience!
+310,Poor quality
+311,Loved it
+312,I love this!
+313,This is awesome
+314,I hate this!
+315,Do not recommend
+316,Superb quality
+317,Best ever
+318,Absolutely fantastic!
+319,Hated it
+320,Absolutely awful!
+321,Superb quality
+322,Really enjoyed it!
+323,Absolutely awful!
+324,Worst ever
+325,I love this!
+326,Loved it
+327,Really bad
+328,Do not recommend
+329,Really bad
+330,Terrible experience!
+331,This is horrible
+332,This is terrible
+333,Amazing experience!
+334,Amazing experience!
+335,This is horrible
+336,Poor quality
+337,Worst ever
+338,Best ever
+339,Highly recommend
+340,This is terrible
+341,I hate this!
+342,This is great
+343,I love this!
+344,Loved it
+345,Terrible experience!
+346,Terrible experience!
+347,This is great
+348,Superb quality
+349,Really enjoyed it!
+350,Highly recommend
+351,Absolutely awful!
+352,Worst ever
+353,This is terrible
+354,Absolutely fantastic!
+355,Loved it
+356,Worst ever
+357,Do not recommend
+358,Absolutely awful!
+359,Hated it
+360,Best ever
+361,This is horrible
+362,Poor quality
+363,This is horrible
+364,This is great
+365,This is awesome
+366,Terrible experience!
+367,I love this!
+368,I love this!
+369,This is terrible
+370,Amazing experience!
+371,Do not recommend
+372,Loved it
+373,Absolutely awful!
+374,I love this!
+375,Do not recommend
+376,Superb quality
+377,This is great
+378,Absolutely fantastic!
+379,Terrible experience!
+380,Do not recommend
+381,This is horrible
+382,This is great
+383,Really bad
+384,This is great
+385,This is terrible
+386,Poor quality
+387,Really bad
+388,Worst ever
+389,This is great
+390,Terrible experience!
+391,Do not recommend
+392,Do not recommend
+393,Superb quality
+394,Really enjoyed it!
+395,I love this!
+396,This is great
+397,Best ever
+398,This is great
+399,Really enjoyed it!
+400,Amazing experience!
+401,Worst ever
+402,Best ever
+403,This is horrible
+404,I love this!
+405,This is great
+406,Absolutely awful!
+407,Really enjoyed it!
+408,Do not recommend
+409,Do not recommend
+410,Amazing experience!
+411,Poor quality
+412,Worst ever
+413,Terrible experience!
+414,Hated it
+415,Absolutely fantastic!
+416,I love this!
+417,I love this!
+418,This is horrible
+419,I hate this!
+420,This is great
+421,Terrible experience!
+422,Absolutely fantastic!
+423,I love this!
+424,I love this!
+425,Loved it
+426,Best ever
+427,I hate this!
+428,Terrible experience!
+429,Absolutely awful!
+430,Terrible experience!
+431,Really bad
+432,Amazing experience!
+433,This is horrible
+434,Hated it
+435,Absolutely fantastic!
+436,Poor quality
+437,Loved it
+438,Best ever
+439,Amazing experience!
+440,This is horrible
+441,This is awesome
+442,Superb quality
+443,Really enjoyed it!
+444,Hated it
+445,Absolutely awful!
+446,I hate this!
+447,Really enjoyed it!
+448,Really enjoyed it!
+449,Best ever
+450,This is great
+451,This is awesome
+452,Absolutely fantastic!
+453,Poor quality
+454,Absolutely fantastic!
+455,Do not recommend
+456,Really enjoyed it!
+457,Hated it
+458,Poor quality
+459,Superb quality
+460,This is great
+461,Terrible experience!
+462,Poor quality
+463,Absolutely awful!
+464,Absolutely fantastic!
+465,This is awesome
+466,Poor quality
+467,Poor quality
+468,Worst ever
+469,Do not recommend
+470,Absolutely awful!
+471,This is horrible
+472,Poor quality
+473,Really enjoyed it!
+474,Terrible experience!
+475,This is awesome
+476,This is horrible
+477,Terrible experience!
+478,This is awesome
+479,Superb quality
+480,Really bad
+481,Worst ever
+482,This is horrible
+483,This is terrible
+484,Do not recommend
+485,This is great
+486,Absolutely fantastic!
+487,Terrible experience!
+488,Worst ever
+489,Really enjoyed it!
+490,Do not recommend
+491,Superb quality
+492,Absolutely awful!
+493,Best ever
+494,Superb quality
+495,Really bad
+496,This is great
+497,Absolutely fantastic!
+498,I hate this!
+499,I hate this!
+500,Hated it
+501,This is terrible
+502,Terrible experience!
+503,This is awesome
+504,Best ever
+505,Terrible experience!
+506,Poor quality
+507,Highly recommend
+508,Superb quality
+509,Really bad
+510,Absolutely awful!
+511,Loved it
+512,Best ever
+513,This is awesome
+514,Hated it
+515,Amazing experience!
+516,This is great
+517,This is great
+518,Highly recommend
+519,This is horrible
+520,Loved it
+521,Do not recommend
+522,Absolutely awful!
+523,I love this!
+524,Worst ever
+525,Poor quality
+526,Superb quality
+527,Absolutely awful!
+528,Really enjoyed it!
+529,Really enjoyed it!
+530,Highly recommend
+531,This is horrible
+532,Terrible experience!
+533,Superb quality
+534,Best ever
+535,This is horrible
+536,Superb quality
+537,Absolutely fantastic!
+538,Absolutely awful!
+539,Absolutely awful!
+540,Hated it
+541,Worst ever
+542,Loved it
+543,This is awesome
+544,Superb quality
+545,I love this!
+546,Absolutely fantastic!
+547,Absolutely awful!
+548,Poor quality
+549,I love this!
+550,Highly recommend
+551,Highly recommend
+552,Terrible experience!
+553,Absolutely awful!
+554,Absolutely awful!
+555,This is terrible
+556,Do not recommend
+557,I hate this!
+558,This is great
+559,Really enjoyed it!
+560,Absolutely fantastic!
+561,This is horrible
+562,Worst ever
+563,Hated it
+564,This is terrible
+565,This is awesome
+566,Poor quality
+567,Really bad
+568,This is terrible
+569,I love this!
+570,Absolutely fantastic!
+571,Do not recommend
+572,I hate this!
+573,Terrible experience!
+574,Best ever
+575,Do not recommend
+576,Loved it
+577,Highly recommend
+578,Terrible experience!
+579,Loved it
+580,Really enjoyed it!
+581,Loved it
+582,Hated it
+583,This is great
+584,This is awesome
+585,Really enjoyed it!
+586,Poor quality
+587,This is awesome
+588,I love this!
+589,Worst ever
+590,Absolutely awful!
+591,Do not recommend
+592,Absolutely awful!
+593,Really bad
+594,Absolutely fantastic!
+595,Highly recommend
+596,Hated it
+597,This is horrible
+598,This is great
+599,This is terrible
+600,Amazing experience!
+601,Best ever
+602,Hated it
+603,Absolutely awful!
+604,This is great
+605,I love this!
+606,I love this!
+607,Hated it
+608,This is terrible
+609,Poor quality
+610,I hate this!
+611,Poor quality
+612,Absolutely awful!
+613,I love this!
+614,Amazing experience!
+615,This is awesome
+616,Absolutely fantastic!
+617,I love this!
+618,Do not recommend
+619,Highly recommend
+620,Poor quality
+621,This is great
+622,This is great
+623,Highly recommend
+624,Absolutely fantastic!
+625,This is great
+626,This is great
+627,Best ever
+628,Best ever
+629,This is horrible
+630,Poor quality
+631,Really bad
+632,This is awesome
+633,Really bad
+634,I love this!
+635,This is horrible
+636,Absolutely awful!
+637,Absolutely awful!
+638,Really enjoyed it!
+639,I love this!
+640,Poor quality
+641,Loved it
+642,Amazing experience!
+643,Loved it
+644,Superb quality
+645,Amazing experience!
+646,Absolutely fantastic!
+647,Hated it
+648,Terrible experience!
+649,I love this!
+650,Terrible experience!
+651,This is great
+652,Poor quality
+653,Do not recommend
+654,This is terrible
+655,This is terrible
+656,This is great
+657,Really bad
+658,Amazing experience!
+659,I hate this!
+660,This is horrible
+661,Superb quality
+662,Highly recommend
+663,Amazing experience!
+664,Highly recommend
+665,Hated it
+666,Amazing experience!
+667,Hated it
+668,This is terrible
+669,This is horrible
+670,Amazing experience!
+671,Worst ever
+672,Highly recommend
+673,I love this!
+674,This is terrible
+675,Best ever
+676,This is horrible
+677,Poor quality
+678,This is great
+679,Really enjoyed it!
+680,Best ever
+681,Poor quality
+682,Best ever
+683,Poor quality
+684,Worst ever
+685,This is great
+686,Amazing experience!
+687,Highly recommend
+688,Amazing experience!
+689,Absolutely awful!
+690,I hate this!
+691,I hate this!
+692,Do not recommend
+693,I hate this!
+694,This is horrible
+695,This is terrible
+696,Do not recommend
+697,I hate this!
+698,Do not recommend
+699,Loved it
+700,Really enjoyed it!
+701,Loved it
+702,Really enjoyed it!
+703,Absolutely fantastic!
+704,Absolutely fantastic!
+705,Hated it
+706,This is horrible
+707,This is horrible
+708,This is great
+709,Hated it
+710,Best ever
+711,Highly recommend
+712,I love this!
+713,This is great
+714,This is awesome
+715,Terrible experience!
+716,Really bad
+717,Amazing experience!
+718,Poor quality
+719,Really bad
+720,Absolutely awful!
+721,This is awesome
+722,This is terrible
+723,This is terrible
+724,I hate this!
+725,Do not recommend
+726,Poor quality
+727,Really enjoyed it!
+728,I love this!
+729,Loved it
+730,Poor quality
+731,Absolutely fantastic!
+732,Worst ever
+733,This is terrible
+734,This is terrible
+735,Really bad
+736,Really bad
+737,Amazing experience!
+738,Absolutely awful!
+739,Really bad
+740,This is horrible
+741,Superb quality
+742,Absolutely fantastic!
+743,This is terrible
+744,Really bad
+745,I hate this!
+746,This is terrible
+747,Absolutely awful!
+748,Hated it
+749,Highly recommend
+750,Absolutely fantastic!
+751,This is horrible
+752,This is terrible
+753,This is great
+754,Best ever
+755,Superb quality
+756,Poor quality
+757,Superb quality
+758,Terrible experience!
+759,Poor quality
+760,Absolutely awful!
+761,Worst ever
+762,Really enjoyed it!
+763,Best ever
+764,Absolutely fantastic!
+765,This is awesome
+766,Absolutely awful!
+767,Hated it
+768,This is terrible
+769,Really enjoyed it!
+770,This is terrible
+771,Amazing experience!
+772,This is terrible
+773,Loved it
+774,Loved it
+775,Poor quality
+776,Terrible experience!
+777,This is horrible
+778,Best ever
+779,This is awesome
+780,This is great
+781,Highly recommend
+782,Worst ever
+783,Amazing experience!
+784,Absolutely awful!
+785,Highly recommend
+786,This is great
+787,I love this!
+788,Highly recommend
+789,Highly recommend
+790,Do not recommend
+791,Really enjoyed it!
+792,I hate this!
+793,This is awesome
+794,Absolutely fantastic!
+795,This is horrible
+796,Loved it
+797,This is great
+798,Really enjoyed it!
+799,Highly recommend
+800,Amazing experience!
+801,Worst ever
+802,I hate this!
+803,Really enjoyed it!
+804,This is terrible
+805,Highly recommend
+806,Poor quality
+807,Highly recommend
+808,This is horrible
+809,Amazing experience!
+810,This is terrible
+811,I hate this!
+812,Loved it
+813,This is horrible
+814,Absolutely awful!
+815,Terrible experience!
+816,This is great
+817,Highly recommend
+818,Really enjoyed it!
+819,This is horrible
+820,Worst ever
+821,I love this!
+822,Worst ever
+823,Poor quality
+824,Terrible experience!
+825,This is terrible
+826,I love this!
+827,Really bad
+828,Highly recommend
+829,This is great
+830,I hate this!
+831,Really enjoyed it!
+832,Absolutely awful!
+833,I hate this!
+834,Absolutely fantastic!
+835,I love this!
+836,Highly recommend
+837,Hated it
+838,Best ever
+839,This is great
+840,Best ever
+841,Terrible experience!
+842,Amazing experience!
+843,Absolutely awful!
+844,Loved it
+845,Amazing experience!
+846,Worst ever
+847,I love this!
+848,This is great
+849,This is awesome
+850,Poor quality
+851,This is awesome
+852,I hate this!
+853,This is terrible
+854,Highly recommend
+855,Absolutely fantastic!
+856,Poor quality
+857,This is great
+858,Terrible experience!
+859,Hated it
+860,Really bad
+861,I hate this!
+862,This is awesome
+863,Amazing experience!
+864,Terrible experience!
+865,Absolutely fantastic!
+866,Absolutely fantastic!
+867,I love this!
+868,Loved it
+869,Loved it
+870,I hate this!
+871,This is awesome
+872,This is great
+873,Really bad
+874,Absolutely fantastic!
+875,This is great
+876,This is great
+877,This is horrible
+878,Really bad
+879,Really enjoyed it!
+880,Absolutely awful!
+881,Best ever
+882,Hated it
+883,Loved it
+884,Loved it
+885,Superb quality
+886,Loved it
+887,Really bad
+888,This is horrible
+889,Highly recommend
+890,I love this!
+891,This is terrible
+892,I love this!
+893,Poor quality
+894,I love this!
+895,This is terrible
+896,Amazing experience!
+897,Really bad
+898,Loved it
+899,Loved it
+900,This is horrible
+901,Superb quality
+902,This is horrible
+903,Highly recommend
+904,Highly recommend
+905,Absolutely fantastic!
+906,Superb quality
+907,This is horrible
+908,Loved it
+909,Best ever
+910,Worst ever
+911,This is terrible
+912,This is terrible
+913,I love this!
+914,Worst ever
+915,Superb quality
+916,Really enjoyed it!
+917,Highly recommend
+918,I love this!
+919,This is great
+920,I love this!
+921,Really enjoyed it!
+922,Amazing experience!
+923,Best ever
+924,This is great
+925,Best ever
+926,I love this!
+927,Highly recommend
+928,Absolutely awful!
+929,This is terrible
+930,Really enjoyed it!
+931,Absolutely awful!
+932,Worst ever
+933,This is terrible
+934,Loved it
+935,This is great
+936,This is terrible
+937,Really enjoyed it!
+938,Terrible experience!
+939,Absolutely awful!
+940,Amazing experience!
+941,This is horrible
+942,This is horrible
+943,Really enjoyed it!
+944,Really enjoyed it!
+945,I hate this!
+946,This is great
+947,Worst ever
+948,I hate this!
+949,Best ever
+950,Loved it
+951,Highly recommend
+952,Highly recommend
+953,Loved it
+954,This is terrible
+955,Really bad
+956,I hate this!
+957,Terrible experience!
+958,Absolutely awful!
+959,Loved it
+960,Hated it
+961,I love this!
+962,This is terrible
+963,Loved it
+964,I hate this!
+965,Terrible experience!
+966,Terrible experience!
+967,Really enjoyed it!
+968,Do not recommend
+969,Really enjoyed it!
+970,This is great
+971,This is great
+972,Loved it
+973,Best ever
+974,Poor quality
+975,This is awesome
+976,This is horrible
+977,Really bad
+978,Loved it
+979,This is awesome
+980,I hate this!
+981,I love this!
+982,Really bad
+983,This is great
+984,Really bad
+985,Really enjoyed it!
+986,I love this!
+987,This is horrible
+988,Loved it
+989,This is terrible
+990,This is terrible
+991,This is awesome
+992,This is awesome
+993,Best ever
+994,Worst ever
+995,This is awesome
+996,Absolutely fantastic!
+997,Worst ever
+998,I hate this!
+999,Highly recommend
+1000,Amazing experience!
